@@ -1,4 +1,4 @@
-<img width="100%" bottom=50px src="https://github.com/MarlonUTF/MarlonUTF/issues/1#issue-2328776652">
+<img width="100%" bottom=50px src="https://github.com/MarlonUTF/MarlonUTF/assets/158642399/19ffe3ff-58f1-4428-bfbf-02e0ba83d290">
 
 # Oi! Meu nome é Marlon Sidnei Santos
 
