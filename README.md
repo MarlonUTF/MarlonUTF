@@ -1,5 +1,10 @@
 <img width="100%" bottom=50px src="https://github.com/MarlonUTF/MarlonUTF/assets/158642399/2bb8eef9-9ee1-423d-9c91-daff057f5948">
 
+<br>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Projetos+feitos+em+sala+de+aula;DW1;BD)](https://git.io/typing-svg)
+
 # Oi! Meu nome é Marlon Sidnei Santos
 
 - 🧑🏽‍💻 **Cursando** Tecnico Integrado em Informática para Internet (UTFPR-CM)
