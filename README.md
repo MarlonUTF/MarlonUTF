@@ -1,7 +1,7 @@
 # Oi! Meu nome é Marlon Sidnei Santos
 
-- 🧑🏽‍💻 Cursando Tecnico Integrado em Informática para Internet (UTFPR-CM)
-- 📚 Atualmente estudo Desenvolvimento Web: HTML, CSS, JavaScript e PHP; Banco de Dados: MySQL
+- 🧑🏽‍💻 **Cursando** Tecnico Integrado em Informática para Internet (UTFPR-CM)
+- 📚 Atualmente estudo **Desenvolvimento Web:** HTML, CSS, JavaScript e PHP; **Banco de Dados:** MySQL
 
 <div>
     <a href="https://github.com/MarlonUTF">
