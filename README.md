@@ -3,7 +3,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Projetos+feitos+em+sala+de+aula;DW1;BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=500&lines=Seja+bem-vindo;Aqui+est%C3%A3o+meus+projetos+feitos+em+aulas%3A;DW1+-+2024;BD+-+2024)](https://git.io/typing-svg)
 
 # Oi! Meu nome é Marlon Sidnei Santos
 
