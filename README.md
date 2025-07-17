@@ -1,13 +1,6 @@
 # Oi! Meu nome é Marlon Sidnei Santos
 
 - 🧑🏽‍💻 **Cursando** Tecnico Integrado em Informática para Internet 3/4 (UTFPR-CM)
-
-<div>
-    <a href="https://github.com/MarlonUTF">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonUTF&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonUTF&layout=compact&langs_count=16&theme=merko"/>
-</div>
-
 <br clear="both">
 
 <div align="left">
