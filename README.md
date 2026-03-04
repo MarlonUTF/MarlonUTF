@@ -1,29 +1,26 @@
-# Oi! Meu nome é Marlon Sidnei Santos
+# 👋 Olá! Eu sou Marlon Sidnei Santos  
 
-- 🧑🏽‍💻 **Cursando** Tecnico Integrado em Informática para Internet 3/4 (UTFPR-CM)
-<br clear="both">
+- 🧑🏽‍💻 **Cursando** Técnico Integrado em Informática para Internet (4/4) – UTFPR-CM  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
 </div>
 
-###
+<br>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarlonUTF.MarlonUTF&right_color=dodgerblue"  />
-
-###
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MarlonUTF.MarlonUTF&right_color=dodgerblue" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarlonUTF/MarlonUTF/output/pacman-contribution-graph-dark.svg">
@@ -31,14 +28,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarlonUTF/MarlonUTF/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlonUTF&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarlonUTF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity graph" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=marlon_utf&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
 </div>
-
-###
