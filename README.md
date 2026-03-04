@@ -31,7 +31,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity graph" />
-    <br>
+  
   <img src="[https://streak-stats.demolab.com?user=marlon_utf&theme=tokyonight&hide_border=true&locale=pt_BR](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marlon_utf&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=1012&background=45%2C0F172A6E%2C1E1B4B" alt="GitHub Streak)" alt="GitHub Streak" />
+      <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity graph" />
 </div>
