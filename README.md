@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  <img src="[https://streak-stats.demolab.com?user=marlon_utf&theme=tokyonight&hide_border=true&locale=pt_BR](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marlon_utf&theme=tokyonight&hide_border=true&locale=pt_BR&card_width=1012&background=45%2C0F172A6E%2C1E1B4B" alt="GitHub Streak)" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marlon_utf&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1200" alt="GitHub Streak" /></a>
       <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity graph" />
 </div>
