@@ -2,7 +2,11 @@
 
 - 🧑🏽‍💻 **Cursando** Técnico Integrado em Informática para Internet (4/4) – UTFPR-CM  
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
@@ -14,6 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" height="40" alt="antdesign" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastify/white" height="40" alt="fastify" />
@@ -27,8 +32,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="40" alt="google docs" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" height="40" alt="google sheets" />
 </div>
-
 
 <br>
 
