@@ -1,5 +1,4 @@
 # 👋 Olá! Eu sou Marlon Sidnei Santos  
-
 - 🧑🏽‍💻 **Cursando** Técnico Integrado em Informática para Internet (4/4) – UTFPR-CM  
 
 <div align="center">
@@ -21,7 +20,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastify/white" height="40" alt="fastify" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastify/000000" />
+    <img src="https://cdn.simpleicons.org/fastify/000000" height="40" alt="fastify" />
+  </picture>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -51,8 +54,21 @@
 <br>
 
 <div align="center">
-  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marlon_utf&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1200" alt="GitHub Streak" /></a>
-      <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity graph" />
+
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=marlon_utf&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1200" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=marlon_utf&theme=default&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1200" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=marlon_utf&theme=default&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1200" />
+    </picture>
+  </a>
+
+  <br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&theme=tokyo-night&radius=16&area=true&order=5" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&theme=github-light&radius=16&area=true&order=5" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MarlonUTF&theme=github-light&radius=16&area=true&order=5" height="300" />
+  </picture>
+
 </div>
